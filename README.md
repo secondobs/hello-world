@@ -1,4 +1,2 @@
 # hello-world
-Guided Repo
-
-test change
+My github test repository... 
